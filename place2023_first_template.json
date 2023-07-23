@@ -1,0 +1,15 @@
+{
+    "contact": "FIRST - https://discord.gg/H23eWE23",
+    "templates": [
+      {
+        "name": "FIRST 2023",
+        "sources": [
+          "https://files.catbox.moe/0ncvvu.png"
+        ],
+        "x": -623,
+        "y": -735
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
